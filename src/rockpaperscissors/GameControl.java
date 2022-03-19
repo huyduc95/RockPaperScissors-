@@ -8,6 +8,6 @@ package rockpaperscissors;
  *
  * @author huytr
  */
-public class Person {
+public class GameControl {
     
 }
