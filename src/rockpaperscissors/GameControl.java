@@ -9,5 +9,8 @@ package rockpaperscissors;
  * @author huytr
  */
 public class GameControl {
+        public static int ROCK = 1;
+	public static int PAPER = 2;
+	public static int SCISSORS = 3;
     
 }
